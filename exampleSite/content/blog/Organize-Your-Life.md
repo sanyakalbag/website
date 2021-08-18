@@ -2,7 +2,7 @@
 title: 'Fall Wreath '
 date: 2020-03-18T21:00:00+00:00
 description: ''
-type: ''
+type: Craft
 image: "/images/img-5128.jpg"
 categories:
 - Wreath
