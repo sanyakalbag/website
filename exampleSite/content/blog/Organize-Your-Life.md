@@ -1,5 +1,5 @@
 ---
-title: 'Fall Wreath '
+title: Fall Wreath
 date: 2020-03-18T21:00:00+00:00
 description: ''
 type: ''
