@@ -13,4 +13,4 @@ tags:
 - Wreath
 
 ---
-The picture above shows the holiday wreath that I created. During COVID-I9 many people were facing hardships and dealing with losses of loved ones. It was an overall hard time for society. I wanted to spread some cheer through my art and conducted a class of 15 people on zoom and taught them how to make holiday wreaths. It brought happiness and joy during a time when many were in fear of the unknown. 
+The picture above shows the holiday wreath that I created. During COVID-I9 many people were facing hardships and dealing with losses of loved ones. It was an overall hard time for society. I wanted to spread some cheer through my art and conducted a class of 15 people on zoom and taught them how to make holiday wreaths. It brought happiness and joy during a time when many were in fear of the unknown.  
